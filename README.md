@@ -7,7 +7,7 @@ An eye-catching 3D rotating image carousel showcasing your favorite Dragon Ball 
 ## 🔍 Live Demo
 
 👉 Coming soon on GitHub Pages  
-*(You can host it via GitHub Pages or Netlify and replace this with a working link)*
+https://sanskargandhewar.github.io/Goku-Gallery-3D-CSS-Image-Slider-Project/
 
 ---
 
@@ -26,6 +26,4 @@ An eye-catching 3D rotating image carousel showcasing your favorite Dragon Ball 
 - 🔧 Customizable quantity, spacing, and animation duration
 
 ---
-
-## 📁 Project Structure
 
