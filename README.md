@@ -13,7 +13,7 @@ An eye-catching 3D rotating image carousel showcasing your favorite Dragon Ball 
 
 ## 🖼️ HTML Output Preview
 
-![HTML Output](./images/screenshot.png)  
+![HTML Output]([./images/screenshot.png](https://sanskargandhewar.github.io/Goku-Gallery-3D-CSS-Image-Slider-Project/))  
 *Preview of the 3D carousel layout with "Dragon Ball" title.*
 
 ---
