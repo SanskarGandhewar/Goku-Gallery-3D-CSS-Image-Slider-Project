@@ -13,9 +13,7 @@ https://sanskargandhewar.github.io/Goku-Gallery-3D-CSS-Image-Slider-Project/
 
 ## 🖼️ HTML Output Preview
 
-![HTML Output](https://sanskargandhewar.github.io/Goku-Gallery-3D-CSS-Image-Slider-Project/)  
-*Preview of the 3D carousel layout with "Dragon Ball" title.*
-
+https://sanskargandhewar.github.io/Goku-Gallery-3D-CSS-Image-Slider-Project/
 ---
 
 ## 🚀 Features
